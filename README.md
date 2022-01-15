@@ -11,12 +11,12 @@ To start the project, just open the file `index.html` in your preferred browser.
 
 ## 💻 Web Version 
 <p align="center">
-    <!--<img src="https://github.com/antoinefradin/Responsive-Footer-HTML-CSS/blob/main/img/Web_version.PNG" alt="web"/>-->
+    <img src="https://github.com/antoinefradin/Responsive-Footer-HTML-CSS/blob/main/img/Web_version.PNG" alt="web"/>
 </p>
 
 ## 📱 Mobile Version
 <p align="center">
-    <!--<img src="https://github.com/antoinefradin/Responsive-Footer-HTML-CSS/blob/main/img/Mobile_version.PNG" alt="web"/>-->
+    <img src="https://github.com/antoinefradin/Responsive-Footer-HTML-CSS/blob/main/img/Mobile_version.PNG" alt="web"/>
 
 </p>
 
