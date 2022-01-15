@@ -27,4 +27,4 @@ To start the project, just open the file `index.html` in your preferred browser.
   <br />
   <br />
 ---
-##### Coded with love by Antoine F. 💙
+##### Coded with love by &#169; AntoineFrd. 💙
